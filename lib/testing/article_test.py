@@ -30,7 +30,7 @@ class TestArticle:
         
         assert isinstance(article_1.title, str)
 
-        #  uncomment the next two lines if using Exceptions
+        # uncomment the next two lines if using Exceptions
         with pytest.raises(Exception):
             Article(author, magazine, 500)
 
