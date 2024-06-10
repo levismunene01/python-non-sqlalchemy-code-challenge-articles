@@ -1,3 +1,6 @@
+# Here is a video of how the test runs 
+[Screencast from 10-06-2024 10:06:20 ALASIRI.webm](https://github.com/learn-co-curriculum/python-non-sqlalchemy-code-challenge-articles/assets/161680163/d91d9078-65b3-48b9-bbb8-4d135d360e09)
+
 # Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
 
 In this code challenge, you will be working with a Magazine domain.
